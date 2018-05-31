@@ -1,0 +1,6 @@
+git is a version control system.
+git is free software.
+git is good
+git is easy to use
+git is really useful
+boss is stupid
